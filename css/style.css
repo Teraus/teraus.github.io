@@ -64,3 +64,8 @@
   padding: 30px;
   border-radius: 10px;
 }
+
+#mc_embed_signup{
+  display: flex;
+  justify-content: center;
+}
