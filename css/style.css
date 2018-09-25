@@ -65,7 +65,7 @@
   border-radius: 10px;
 }
 
-#mc_embed_signup{
+.clear{
   display: flex;
   justify-content: center;
 }
